@@ -96,5 +96,3 @@ hourlyWage: 30
 Run the `doSomethingFun()` method on the manager object. Then `return` the manager object.
 
 <br><br>
-
-### Nice work! 
